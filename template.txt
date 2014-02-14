@@ -1,0 +1,8 @@
+"custom_weapons_v3"
+{
+	"*"
+	{
+		#inc "tf2items/demoman.cfg"
+		#inc "tf2items/engineer.cfg"
+	}
+}
